@@ -162,15 +162,9 @@ The notebook requires WRDS access for data retrieval.
 
 ### Run the Streamlit App
 
-### Option 1: Run Locally
-
 ```bash
 streamlit run app.py
 ```
-
-### Option 2: Use the Deployed App
-
-A deployed version of the app is also available online:https://wrds-financial-benchmarking-tool-jvzbk5ltpcwkavxpcaqibc.streamlit.app/
 
 ## Limitations
 
